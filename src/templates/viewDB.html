@@ -1,0 +1,13 @@
+{% extends 'headerPage.html' %}
+
+{% block content%}
+
+{% for keys,values in listofimagePath.items %}
+<br>
+<img src={{keys}} style="width: 100px;">  <span> <strong style="font-size: 30px;">{{ values }}</strong></span> <br>
+
+{% endfor%}
+
+
+
+{% endblock %}
