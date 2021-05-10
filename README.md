@@ -11,6 +11,7 @@ There are 2560 images for training the model belonging to 4 classes:
 2. 680 Happy images,
 3. 616 Neutral images,
 4. 704 Sad images,
+
 There are1096 images for validating the model belonging to 4 classes:
 1. 248 Angry images
 2. 296 Happy images
@@ -18,9 +19,10 @@ There are1096 images for validating the model belonging to 4 classes:
 4. 288 Sad images.
 
 #### Platform Used:
-> Language: Python, HTML, CSS, JavaScript
-> Tool: Jupyter Notebook, VS Studio
-> BuildIn: Django Framework
+
+>> Language: Python, HTML, CSS, JavaScript
+>> Tool: Jupyter Notebook, VS Studio
+>> BuildIn: Django Framework
 
 #### To run the App:
 1. Open cmd
