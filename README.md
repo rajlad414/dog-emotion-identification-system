@@ -6,16 +6,16 @@ This is a model that identifies the dog emotion i.e. whether dog is happy, angry
 <img src="algo.png">
 
 #### Dataset:
-There are 2560 images for training the model belonging to 4 classes
-• 560 Angry images
-• 680 Happy images
-• 616 Neutral images
-• 704 Sad images
-There are1096 images for validating the model belonging to 4 classes
-• 248 Angry images
-• 296 Happy images
-• 264 Neutral images
-• 288 Sad images.
+There are 2560 images for training the model belonging to 4 classes:
+560 Angry images
+680 Happy images
+616 Neutral images
+704 Sad images
+There are1096 images for validating the model belonging to 4 classes:
+248 Angry images
+296 Happy images
+264 Neutral images
+288 Sad images.
 
 #### Platform Used:
 Language: Python, HTML, CSS, JavaScript
