@@ -19,10 +19,9 @@ There are1096 images for validating the model belonging to 4 classes:
 4. 288 Sad images.
 
 #### Platform Used:
-
->> Language: Python, HTML, CSS, JavaScript
->> Tool: Jupyter Notebook, VS Studio
->> BuildIn: Django Framework
+Language: Python, HTML, CSS, JavaScript
+Tool: Jupyter Notebook, VS Studio
+BuildIn: Django Framework
 
 #### To run the App:
 1. Open cmd
